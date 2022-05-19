@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nubiza
+- 👀 I’m interested in Progamming
+- 🌱 I’m currently learning c++, js, lua
+- 📫 How to reach me https://discord.gg/9QxsGt2Qqz
