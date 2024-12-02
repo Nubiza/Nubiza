@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nubiza
 - 👀 I’m interested in Progamming
-- 🌱 I’m currently learning c++, py, lua
+- 🌱 I’m currently learning js
 - 📫 How to reach me https://dsc.gg/nubiza
